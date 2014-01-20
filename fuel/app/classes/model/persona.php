@@ -44,6 +44,7 @@ class Model_Persona extends \Orm\Model {
         // return static::find('all');
         // return static::find('all');
         // return static::find('all');
+        //se hizo un cambio ahora útimo
     }
 
 }
